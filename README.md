@@ -30,5 +30,5 @@ Need to add Google, Course and https://stackoverflow.com/questions/22323073/how-
 * Udacity Forums - [Discussion Forum] (https://discussions.udacity.com/)
 
 
-#License information:
+# License information:
 This Application and it's associated code is free to use. 
