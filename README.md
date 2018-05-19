@@ -20,7 +20,7 @@ Map features:
 * Clicking on the info windows 'x' will close it out
 
 # How to Launch Application :
-Download or Clone Repository. Double click the file ```neighborhood_map.html```. The application should launch in the web browser. 
+Download or Clone Repository. Double click the file ```index.html```. The application should launch in the web browser. 
 If not, please right click the file and select open with -> chrome or web browser of your choice. Do ensure that internet access is 
 available and check firewall settings if the map or infowindows show any errors.
 
